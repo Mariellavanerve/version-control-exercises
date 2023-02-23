@@ -1,3 +1,3 @@
 # version-control-exercises
 
-My first *line* of code
+My first *line* of **code**
